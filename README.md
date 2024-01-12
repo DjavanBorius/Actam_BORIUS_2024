@@ -50,6 +50,9 @@ firestore database but not on firestore storage. And if we want to use sequence 
 user we need to use a storage and not a database. So I had to learn new concepts and
 pass these difficulties. 
 
+Video :
+video available here https://github.com/DjavanBorius/Actam_BORIUS_2024/blob/main/Actam_Video.mp4 
+
 PS :
 When I started to code I use french notations for the variables. I tried to changed back the names to english.
 Some of them might not be changed, I hope you can still understand the code. 
