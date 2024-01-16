@@ -27,8 +27,8 @@ On the other hand the scripts in javascript uses functions and functionnalities 
 where studied during lessons. 
 For instance we need to know the bpm of the song. As stft in javascript are complexe and
 not very efficient I use the code of Curtis Lawrence on codepen : MP3 BPM Detection.
-To show and play on the multiplayer we use the Wavesurfer.js library.
-For the sequencer we use Tone.js to create the instruments via recorded notes of these
+To show and play on the multiplayer we use the Wavesurfer.js (https://wavesurfer.xyz/) library.
+For the sequencer we use Tone.js (https://tonejs.github.io/) to create the instruments via recorded notes of these
 particular instruments. (all the trakcs of instruments come from https://freewavesamples.com/)
 To record the sequence we also use Tone.js, but there has been a big issue with this recorder.
 To fix it we need to use the function ysFixWebmDuration (available on github :
